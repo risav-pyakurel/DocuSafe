@@ -1,2 +1,0 @@
-This is demo for pushing your project in ubuntu
-
